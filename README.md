@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdurrahmanIdr
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Image Recognition
+- 🌱 I’m currently studying Computer Engineering
+- 💞️ I’m looking to collaborate on any ML project 
 - 📫 How to reach me abdurrahmaneedrees@gmail.com
 
 <!---
