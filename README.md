@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdurrahmanIdr
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m a graduate of Computer & Communicatios Engineering
+- 👀 I’m interested in Software Development 
+- 🌱 I’m a graduate of Computer & Communications Engineering
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me abdurrahmaneedrees@gmail.com
 
