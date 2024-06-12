@@ -17,5 +17,5 @@ I'm always looking for opportunities to collaborate on interesting projects. Fee
 
 ## 📫 **Contact:**
 
-- Email: <abdurrahmaneedrees@gmail.com>
+- Email: [Engr. Abdurrahman Idris](mailto:abdurrahmaneedrees@gmail.com)
 - Linkedin: [Abdurrahman Idris](https://www.linkedin.com/in/abdurrahman-idris-0198-585340107/)
